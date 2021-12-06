@@ -1,0 +1,116 @@
+body{
+    padding-top:40px;
+    background-color: rgb(37, 35, 35);
+    
+}
+.main{
+    margin-top:20px;
+    margin-left:70px;
+    text-align:center;
+}
+.main{
+    width:200px;
+    display:unset;
+}
+.sub{
+
+    height:20px;
+    width:20px;  
+    margin:5px;  
+    background-color:#d4caca;
+    border-radius:10px;
+    animation-name:slide;
+    animation-duration: 1s;
+    animation-timing-function:ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    
+  
+}
+
+@keyframes slide{
+    0% {transform: translateX(0px);}
+    50% {transform: translateX(500px);}
+    100% {transform: translateX(0px);}
+}
+.osc1{
+    animation-duration:5.75s;
+}
+.osc2{
+    animation-duration:5.5s;
+    background-color:#666262;
+}
+.osc3{
+    animation-duration:5.25s;
+    background-color:#c21b1b;
+}
+.osc4{
+    animation-duration:5s;
+    background-color:#8dbb20;
+}
+.osc5{
+    animation-duration:4.75s;
+    background-color:#f85307;
+}
+.osc6{
+    animation-duration:4.5s;
+    background-color:#0afc2b;
+}
+.osc7{
+    animation-duration:4.25s;
+    background-color:#0e8bf1;
+}
+.osc8{
+    animation-duration:4s;
+    background-color:#9910e9;
+}
+.osc9{
+    animation-duration:3.75s;
+    background-color:#e80af0;
+}
+.osc10{
+    animation-duration:3.5s;
+    background-color:#807676;
+}
+.osc11{
+    animation-duration:3.25s;
+    background-color:#ff0505;
+}
+.osc12{
+    animation-duration:3s;
+    background-color:#fce307;
+}
+.osc13{
+    animation-duration:2.75s;
+    background-color:#790f44;
+}
+.osc14{
+    animation-duration:2.5s;
+    background-color:#ff00ff;
+}
+.osc15{
+    animation-duration:2.25s;
+    background-color:#ff6600;
+}
+.osc16{
+    animation-duration:2s;
+    background-color:#06a9e9;
+}
+.osc17{
+    animation-duration:1.75s;
+    background-color:#13ff13;
+}
+.osc18{
+    animation-duration:1.5s;
+    background-color:#fcd705;
+
+}
+.osc19{
+    animation-duration:1.25s;
+    background-color:#30aae2;
+}
+.osc20{
+    animation-duration:1s;
+    background-color:#8871a3;
+}
+
