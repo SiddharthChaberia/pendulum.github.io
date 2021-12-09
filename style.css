@@ -14,13 +14,13 @@ body{
 }
 .sub{
 
-    height:20px;
-    width:20px;  
+    height:10px;
+    width:10px;  
     margin:5px;  
     background-color:#d4caca;
     border-radius:10px;
     animation-name:slide;
-    animation-duration: 1s;
+    animation-duration: 3s;
     animation-timing-function:ease-in-out;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -34,83 +34,163 @@ body{
     100% {transform: translateX(0px);}
 }
 .osc1{
-    animation-duration:5.75s;
+    animation-delay: 0.15s;
 }
 .osc2{
-    animation-duration:5.5s;
+    animation-delay: 0.3s;
     background-color:#666262;
 }
 .osc3{
-    animation-duration:5.25s;
+    animation-delay: 0.45s;
     background-color:#c21b1b;
 }
 .osc4{
-    animation-duration:5s;
+    animation-delay: 0.6s;
     background-color:#8dbb20;
 }
 .osc5{
-    animation-duration:4.75s;
+    animation-delay: 0.75s;
     background-color:#f85307;
 }
 .osc6{
-    animation-duration:4.5s;
+    animation-delay: 0.9s;
     background-color:#0afc2b;
 }
 .osc7{
-    animation-duration:4.25s;
+    animation-delay: 1.05s;
     background-color:#0e8bf1;
 }
 .osc8{
-    animation-duration:4s;
+    animation-delay: 1.2s;
     background-color:#9910e9;
 }
 .osc9{
-    animation-duration:3.75s;
+    animation-delay: 1.35s;
     background-color:#e80af0;
 }
 .osc10{
-    animation-duration:3.5s;
+    animation-delay: 1.5s;
     background-color:#807676;
 }
 .osc11{
-    animation-duration:3.25s;
+    animation-delay: 1.65s;
     background-color:#ff0505;
 }
 .osc12{
-    animation-duration:3s;
+    animation-delay: 1.80s;
     background-color:#fce307;
 }
 .osc13{
-    animation-duration:2.75s;
+    animation-delay: 1.95s;
     background-color:#790f44;
 }
 .osc14{
-    animation-duration:2.5s;
+    animation-delay: 2.1s;
     background-color:#ff00ff;
 }
 .osc15{
-    animation-duration:2.25s;
+    animation-delay: 2.25s;
     background-color:#ff6600;
 }
 .osc16{
-    animation-duration:2s;
+    animation-delay: 2.4s;
     background-color:#06a9e9;
 }
 .osc17{
-    animation-duration:1.75s;
+    animation-delay: 2.55s;
     background-color:#13ff13;
 }
 .osc18{
-    animation-duration:1.5s;
+    animation-delay: 2.7s;
     background-color:#fcd705;
 
 }
 .osc19{
-    animation-duration:1.25s;
+    animation-delay: 2.85s;
     background-color:#30aae2;
 }
 .osc20{
-    animation-duration:1s;
+    animation-delay: 3s;
+    background-color:#8871a3;
+}
+.osc21{
+    animation-delay: 3.15s;
+}
+.osc22{
+    animation-delay: 3.3s;
+    background-color:#666262;
+}
+.osc23{
+    animation-delay: 3.45s;
+    background-color:#c21b1b;
+}
+.osc24{
+    animation-delay: 3.6s;
+    background-color:#8dbb20;
+}
+.osc25{
+    animation-delay: 3.75s;
+    background-color:#f85307;
+}
+.osc26{
+    animation-delay: 3.9s;
+    background-color:#0afc2b;
+}
+.osc27{
+    animation-delay: 4.05s;
+    background-color:#0e8bf1;
+}
+.osc28{
+    animation-delay: 4.2s;
+    background-color:#9910e9;
+}
+.osc29{
+    animation-delay: 4.35s;
+    background-color:#e80af0;
+}
+.osc30{
+    animation-delay: 4.5s;
+    background-color:#807676;
+}
+.osc31{
+    animation-delay: 4.65s;
+    background-color:#ff0505;
+}
+.osc32{
+    animation-delay: 4.8s;
+    background-color:#fce307;
+}
+.osc33{
+    animation-delay: 4.95s;
+    background-color:#790f44;
+}
+.osc34{
+    animation-delay: 5.1s;
+    background-color:#ff00ff;
+}
+.osc35{
+    animation-delay: 5.25s;
+    background-color:#ff6600;
+}
+.osc36{
+    animation-delay: 5.4s;
+    background-color:#06a9e9;
+}
+.osc37{
+    animation-delay: 5.55s;
+    background-color:#13ff13;
+}
+.osc38{
+    animation-delay: 5.7s;
+    background-color:#fcd705;
+
+}
+.osc39{
+    animation-delay: 5.85s;
+    background-color:#30aae2;
+}
+.osc40{
+    animation-delay: 6s;
     background-color:#8871a3;
 }
 
